@@ -54,3 +54,7 @@ Example: If a zone remains unoccupied for a few seconds, lights and fans are tur
 
 ## Installation & Usage (Coming Soon)
 
+
+
+## Consistency & Discipline
+This project is maintained regularly to ensure documentation clarity and code quality. Small, daily improvements are prioritized over large, infrequent updates.
