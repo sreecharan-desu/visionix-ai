@@ -1,3 +1,6 @@
+/**
+ * markdownContent utility.
+ */
 export const markdownContent = `
 # VisionixAI Technical Documentation
 
